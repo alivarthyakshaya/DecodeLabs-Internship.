@@ -1,28 +1,32 @@
-# Project 1: Advanced EDA & Feature Engineering
+# DecodeLabs Internship
 
-## Objective
-Transform raw data into a clean dataset ready for Machine Learning.
+This repository contains the projects completed during my DecodeLabs Data Science Internship.
+
+## Projects
+
+### Project 1 – Advanced EDA & Feature Engineering
+- Data Cleaning
+- Missing Value Handling
+- Outlier Detection
+- Feature Engineering
+
+### Project 2 – Fraud Detection Pipeline
+- Supervised Machine Learning
+- SMOTE
+- Logistic Regression
+- Random Forest
+- Model Evaluation
 
 ## Technologies Used
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Imbalanced-learn
 
-## Tasks Performed
-- Loaded the dataset
-- Performed Exploratory Data Analysis (EDA)
-- Handled missing values using Median and KNN Imputation
-- Removed duplicate records
-- Detected outliers using Z-Score and IQR
-- Created new features:
-  - FamilySize
-  - IsAlone
-  - FarePerPerson
-  - AgeGroup
-- Saved the cleaned dataset
+## Author
 
-## Output
-- Clean_Titanic_Dataset.csv
+Akshaya Alivarthy
